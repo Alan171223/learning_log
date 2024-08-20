@@ -1,0 +1,5 @@
+{
+    "python.experiments.optInto": [],
+    "python.terminal.activateEnvironment": false,
+    "python.terminal.executeInFileDir": false
+}
